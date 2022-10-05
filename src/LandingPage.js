@@ -1,11 +1,11 @@
 import React from "react";
-import AnimationRevealPage from "helpers/AnimationRevealPage.js";
-import Header from "components/Header";
-import Footer from "components/Footer";
-import FAQ from "components/FAQs";
-import ApplicationStatus from "components/ApplicationStatus";
-import Events from "components/Events";
-import RecommendedJobs from "components/RecommendedJobs";
+import AnimationRevealPage from "./helpers/AnimationRevealPage.js";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import FAQ from "./components/FAQs";
+import ApplicationStatus from "./components/ApplicationStatus";
+import Events from "./components/Events";
+import RecommendedJobs from "./components/RecommendedJobs";
 
 export default () => {
 

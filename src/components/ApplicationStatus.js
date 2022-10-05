@@ -1,11 +1,11 @@
 import React from "react";
+import Stepper from 'react-stepper-horizontal';
 import styled from "styled-components";
 import tw from "twin.macro";
-import { Container, ContentWithPaddingLg } from "components/misc/Layouts.js";
-import { ReactComponent as SvgDecoratorBlob1 } from "images/svg-decorator-blob-2.svg";
-import { ReactComponent as SvgDecoratorBlob2 } from "images/svg-decorator-blob-4.svg";
-import { SectionHeading, Subheading as SubheadingBase } from "components/misc/Headings.js";
-import Stepper from 'react-stepper-horizontal';
+import { Container, ContentWithPaddingLg } from "./misc/Layouts.js";
+import { ReactComponent as SvgDecoratorBlob1 } from "../images/svg-decorator-blob-2.svg";
+import { ReactComponent as SvgDecoratorBlob2 } from "../images/svg-decorator-blob-4.svg";
+import { SectionHeading, Subheading as SubheadingBase } from "./misc/Headings.js";
 import { css } from "styled-components/macro"; //eslint-disable-line
 
 

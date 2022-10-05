@@ -1,5 +1,5 @@
 import React from "react";
-import GlobalStyles from 'styles/GlobalStyles';
+import GlobalStyles from './styles/GlobalStyles';
 import { css } from "styled-components/macro"; //eslint-disable-line
 
 import LandingPage from "./LandingPage.js";
